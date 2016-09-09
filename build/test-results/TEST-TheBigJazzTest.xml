@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TheBigJazzTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2016-09-09T20:49:49" hostname="epicodus-3.local" time="0.003">
+<testsuite name="TheBigJazzTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2016-09-09T21:19:44" hostname="epicodus-3.local" time="0.002">
   <properties/>
   <testcase name="boolean_quitsIfNoJive_bool" classname="TheBigJazzTest" time="0.001"/>
   <testcase name="boolean_continuesIfJive_bool" classname="TheBigJazzTest" time="0.0"/>
   <testcase name="String_setsBandForObject_String" classname="TheBigJazzTest" time="0.0"/>
   <testcase name="String_setsLocationForObject_String" classname="TheBigJazzTest" time="0.0"/>
-  <testcase name="int_setsTotalCostCorrectly_int" classname="TheBigJazzTest" time="0.001"/>
+  <testcase name="int_setsTotalCostCorrectly_int" classname="TheBigJazzTest" time="0.0"/>
   <testcase name="String_setsNameForObject_String" classname="TheBigJazzTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
