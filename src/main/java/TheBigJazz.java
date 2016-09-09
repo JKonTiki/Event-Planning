@@ -1,6 +1,3 @@
-// import java.util.ArrayList;
-// import java.util.List;
-
 public class TheBigJazz {
   public String mName;
   public String mLocation;
@@ -35,9 +32,12 @@ public class TheBigJazz {
     } else if (_location.equals("2")) {
       mLocation = "THE BOURBON BAYOU";
       mLocationCost = 4;
-    } else {
+    } else if (_location.equals("1")) {
       mLocation = "TIKI TINA'S";
       mLocationCost = 2;
+    } else {
+      mLocation = _location;
+      mLocationCost = 105;
     }
   }
 
@@ -52,9 +52,12 @@ public class TheBigJazz {
     } else if (_band.equals("2")) {
       mBand = "THE SWINGIN JOHNNYS";
       mBandCost = 4;
-    } else {
+    } else if (_band.equals("1")) {
       mBand = "THE BONOBO BOYS";
       mBandCost = 2;
+    } else {
+      mBand = _band;
+      mBandCost = 150;
     }
   }
 
