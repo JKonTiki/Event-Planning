@@ -10,7 +10,7 @@ Users discuss a potential business prospect with a kind and welcoming host. At t
 
 ##Support and contact details
 
-The Javascript used is quite rudimentary and so probably longer than it needs to be. Advice would not go unappreciated, please make contact via the info given on the page.
+The Java used is quite rudimentary and so probably longer than it needs to be. Advice would not go unappreciated, please make contact via the info given on the page.
 
 ## Specs
 
