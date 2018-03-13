@@ -58,7 +58,7 @@ public class App {
       System.out.println();
       System.out.println("**************");
       System.out.println();
-      System.out.println("Cut me some shampoo and call me Sampson - I think we're cullin' some of grandma's sweet tutti-frutti over here! This riot is gonna cut the lights outta this town - no doubts or dispatches - and you and me are gonna rake in the business like a couple of real good-time charlies. The " + name + " is gonna turn " + location + " into a real groovy slide-time, and I can already feel " + theBigTime.mBand + " reelin' in the fish at " + theBigTime.mLocation + " all night.");
+      System.out.println("Cut me some shampoo and call me Sampson - I think we're cullin' some of grandma's sweet tutti-frutti over here! This riot is gonna cut the lights outta this town - no doubts or dispatches - and you and me are gonna rake in the business like a couple of real good-time charlies. The " + name + " is gonna turn " + theBigTime.mLocation + " into a real groovy slide-time, and I can already feel " + theBigTime.mBand + " reelin' in the fish all night.");
       System.out.println();
       System.out.println("Now, a ball like this can't roll without catchin' a pretty penny. This grand-slam-momma-jam is gonna run us about " + theBigTime.mTotalCost + " large, but don't let that hold 'ya down. By the end of that night, you and me are gonna me a couple real Carnegies and won't nobody be callin' us a pair of slipaway jacksons then! We'll sure slam 'em then!");
       System.out.println();
